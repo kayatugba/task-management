@@ -1,0 +1,10 @@
+com/tugbakaya/taskmanagementservices/service/TaskServiceCriteriaImpl.class
+com/tugbakaya/taskmanagementservices/service/UserServiceImpl.class
+com/tugbakaya/taskmanagementservices/TaskManagementServiceApplication.class
+com/tugbakaya/taskmanagementservices/service/TaskService.class
+com/tugbakaya/taskmanagementservices/service/TaskServiceImpl.class
+com/tugbakaya/taskmanagementservices/controller/TaskManagementCriteriaRestController.class
+com/tugbakaya/taskmanagementservices/config/SecurityJavaConfig.class
+com/tugbakaya/taskmanagementservices/service/UserService.class
+com/tugbakaya/taskmanagementservices/controller/TaskManagementRestController.class
+com/tugbakaya/taskmanagementservices/service/UserServiceCriteriaImpl.class
